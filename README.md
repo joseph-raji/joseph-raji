@@ -1,4 +1,4 @@
-## Hi, I'm Joseph Raji!
+## Hi, I'm Joseph!
 
 ## 🚀 About Me  
 I’m a **Data Engineer** passionate about **finance, AI, and software development**. My projects often focus on market analysis, trading algorithms, and financial insights.
